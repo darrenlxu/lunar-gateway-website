@@ -30,6 +30,11 @@ _________
       1. contains all updates related to Gateway from 2021 onwards 
       2. button that directs back to 1. 
  
+________
+
+<h3>Information about Lunar Gateway</h3>
+
+The Lunar Gateway or Gateway is a space station planned to be launched into lunar orbit in late 2024. It will act as a laboratory, communication hub, habitation facility for astronauts and a garage for lunar rovers/robots. Lunar Gateway will study and gather more knowledge in the fields of astrophysics, space biology, planetary science and Earth observation. Gateway will also be a staging point for exploration of the Moon's south pole.
 
 
 
