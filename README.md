@@ -10,9 +10,11 @@ This is the live Gateway website → https://flask-lunargateway.herokuapp.com/
 
 <li>Domain to be changed to <b>isgatewayinorbit.com</b> or similar, soon</li>
 
-<br> 
 
-______
+_________
+
+
+<h3>Contents</h3>
 
   1. Main Page (Gateway Countdown)
       1. a countdown to the launch of Gateway in November 2024 <i>(planned)</i>
