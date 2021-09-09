@@ -2,13 +2,11 @@
 <h1>Lunar Gateway Website</h1>
 
 <br></br>
-This is the live Gateway website → https://flask-lunargateway.herokuapp.com/
+This is the live Gateway website → www.isgatewayinorbit.com
 <br></br>
 
 <li> Built with Python (Flask), HTML, CSS and JavaScript </li>
 <li> Deployed using Heroku </li>
-
-<li>Domain to be changed to <b>isgatewayinorbit.com</b> or similar, soon</li>
 
 
 _________
