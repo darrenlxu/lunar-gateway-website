@@ -7,6 +7,7 @@ This is the live Gateway website → www.isgatewayinorbit.com
 
 <li> Built with Python (Flask), HTML, CSS and JavaScript </li>
 <li> Deployed using Heroku </li>
+<li> Working on obtaining SSL certification</li>
 
 
 _________
