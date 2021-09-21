@@ -2,7 +2,7 @@
 <h1>Lunar Gateway Website</h1>
 
 <br></br>
-This is the live Gateway website → https://www.isgatewayinorbit.com
+This is the live Gateway website → <a href = isgatewayinorbit.com>isgatewayinorbit.com</a>
 <br></br>
 
 <li> Built with Python (Flask), HTML, CSS and JavaScript </li>
