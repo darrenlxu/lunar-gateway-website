@@ -35,7 +35,7 @@ The Lunar Gateway or Gateway is a space station planned to be launched into luna
 
 ________
 
-This is a just for fun venture/project.
+This is a just for fun project.
 
 
 
